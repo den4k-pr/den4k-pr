@@ -6,7 +6,7 @@ I em Frontend developer 👨‍💻🚀
 
 Specializing in interface development for various projects. My previous position was at the startup STARPASS IT. Currently, I am actively enhancing my skills and seeking new challenges. 🚀👨‍💻
 
-* 🌍  I'm based in Польща
+* 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [portfolio](http://portfolio-den.vercel.app/)
 * ✉️  You can contact me at [yakovden4k@gmail.com](mailto:yakovden4k@gmail.com)
 
