@@ -4,7 +4,7 @@ Hi 👋 My name is Denys
 I em Frontend developer 👨‍💻🚀
 -------------------------------
 
-Specializing in interface development for various projects. My previous position was at the startup STARPASS IT. Currently, I am actively enhancing my skills and seeking new challenges. 🚀👨‍💻
+Specializing in interface development for various projects. Currently, I am actively enhancing my skills and seeking new challenges. 🚀👨‍💻
 
 * 🌍  I'm based in Польща
 * 🖥️  See my portfolio at [portfolio](http://portfolio-den.vercel.app/)
