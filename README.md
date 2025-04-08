@@ -30,10 +30,3 @@ Specializing in interface development for various projects. Currently, I am acti
 
 <a href="https://github.com/den4k-pr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=den4k-pr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/den4k-pr/dropShop__client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=den4k-pr&repo=dropShop__client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/den4k-pr/catalog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=den4k-pr&repo=catalog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/den4k-pr/admin_front" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=den4k-pr&repo=admin_front&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/den4k-pr/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=den4k-pr&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
