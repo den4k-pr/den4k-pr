@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denys</h1>
+
 <p align="left" style="font-size: 16px">
   Software Engineer | TypeScript (Next.js, NestJS) 
   <br/><br/>
