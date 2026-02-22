@@ -5,7 +5,7 @@
   Building scalable web & mobile apps. 
   <br/>
   Automation • Integrations • AI/LLM 
-  <br.><br/>
+  <br/><br/>
   Clean code. High performance. Real business impact.</p>
 
 <h3 align="left">Connect with me:</h3>
