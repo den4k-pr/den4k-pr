@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">Software Engineer | TypeScript (Next.js, NestJS) Building scalable web & mobile apps. Automation • Integrations • AI/LLM Clean code. High performance. Real business impact.</h3>
+<p align="center">Software Engineer | TypeScript (Next.js, NestJS) Building scalable web & mobile apps. Automation • Integrations • AI/LLM Clean code. High performance. Real business impact.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
