@@ -4,9 +4,6 @@ Hi 👋 My name is Denys
 I em Frontend developer 👨‍💻🚀
 -------------------------------
 
-Specializing in interface development for various projects. Currently, I am actively enhancing my skills and seeking new challenges. 🚀👨‍💻
-
-* 🌍  I'm based in Польща
 * 🖥️  See my portfolio at [portfolio](http://portfolio-yak.vercel.app/)
 * ✉️  You can contact me at [yakovden4k@gmail.com](mailto:yakovden4k@gmail.com)
 
