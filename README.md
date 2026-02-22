@@ -1,9 +1,3 @@
-Hi 👋 My name is Denys
-======================
-
-I em Frontend developer 👨‍💻🚀
--------------------------------
-
 * 🖥️  See my portfolio at [portfolio](http://portfolio-yak.vercel.app/)
 * ✉️  You can contact me at [yakovden4k@gmail.com](mailto:yakovden4k@gmail.com)
 
