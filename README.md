@@ -15,14 +15,14 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<br/><br/>
+<br/>
 <!-- Languages -->
 <h4>Languages</h4>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Frontend -->
 <h4>Frontend</h4>
 <p>
@@ -31,7 +31,7 @@
 <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
 <a href="https://www.gatsbyjs.com/"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Styling -->
 <h4>Styling</h4>
 <p>
@@ -41,7 +41,7 @@
 <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Backend -->
 <h4>Backend</h4>
 <p>
@@ -50,7 +50,7 @@
 <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/></a>
 <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Mobile -->
 <h4>Mobile</h4>
 <p>
@@ -58,14 +58,14 @@
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
 <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Database -->
 <h4>Database</h4>
 <p>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
-<br/><br/>
+<br/>
 <!-- Tools -->
 <h4>Tools & Others</h4>
 <p>
